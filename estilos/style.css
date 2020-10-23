@@ -1,0 +1,24 @@
+h1,h2 {
+color: darkgray;
+font-family: Arial, Helvetica, sans-serifs;
+}
+
+img {
+border-radius: 20%;
+width: 700px;
+
+}
+
+p {
+color: darkgray;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+body {
+    background-color: black;
+}
+
+.imagen1{
+    width: 300px;
+}
